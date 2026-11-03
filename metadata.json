@@ -1,0 +1,7 @@
+{
+  "name": "OmniStock Warehouse & Inventory Management",
+  "description": "Enterprise-grade warehouse network, real-time inventory management, automated reporting, e-commerce integrations, and AI logistics agent for startups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
